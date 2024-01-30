@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'unknown-action' => 'Sorry, but I don\'t know how to respond to this command yet!',
+    'my-requests' => 'My requests',
+    'fast-request' => 'Fast request',
+    'about-us' => 'About us',
+    'our-cases' => 'Our cases',
+    'domain-templates' => 'Domain and templates',
+    'contact-us' => 'Contact us',
+    'open-webapp' => 'Open WebApp Constructor',
+    'no-content' => 'No content',
+    'homepage' => 'Website homepage 🌐',
+    'learn-more' => 'Learn more ↗️',
+    'registration-error' => 'Registration error',
+    'new-request' => 'Leave new request 🤖',
+    'no-requests' => "You have no requests yet 📭 \n Let's make a new one! 🚀",
+    'send-empty-request' => 'Send empty request 🚀',
+    'choose-domain' => 'Choose your domain 🌐🔍',
+    'template-not-found' => 'Template is not found 🔍',
+    'test-template' => 'Test this one out! 🌟',
+    'smth-wrong' => 'Something went wrong! 😞',
+    'back' => '⬅️ Back',
+    'choose-case' => 'Our cases 💼',
+    'case-not-found' => 'Case is not found 🔍',
+];
